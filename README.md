@@ -12,15 +12,12 @@ Key Features:
 
    Sales Report (Lightning Page) A comprehensive Lightning page provides a visual summary of:
       
-         Daily sales totals
+         1.Daily sales totals
+         2.Cumulative sales to date
       
-         Cumulative sales to date
-      
-         Borrower report including:
-      
-         List of unpaid borrowers
-      
-         Total outstanding borrowings
+         3.Borrower report including:
+               a) List of unpaid borrowers
+               b) Total outstanding borrowings
 
 This project demonstrates effective use of Salesforce features like custom objects, Lightning pages, flows, and automation to manage real-world shop operations efficiently.
 
